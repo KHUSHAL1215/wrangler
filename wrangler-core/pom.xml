@@ -105,6 +105,12 @@
       <version>2.0.2</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>io.cdap.wrangler</groupId>
+      <artifactId>wrangler-api</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+
 
     <!-- External -->
 
